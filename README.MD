@@ -11,7 +11,7 @@
 
 # Projeto EBOOK Gerado por I.A.s
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
 <a href="file:///C:/Users/allek/OneDrive/%C3%81rea%20de%20Trabalho/Ebook%20DIO.pdf"> 📕Clique aqui para ler</a>
@@ -30,7 +30,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  |Crie um título de um ebook sobre o tema Organização do lar para mães solo, o ebook é do nicho de Personal Organizer e o subnicho é Praticidade e Elegância, o título deve ser épico e curto, e ter uma temática de Amelie Poulain, me liste 5 variações de títulos.                                                       |
+|  título  |Crie um título de um ebook sobre o tema Organização do lar para mães solo.O ebook é do nicho Personal Organizer e do subnicho Praticidade e Elegância. O título deve ser épico, curto e ter uma temática de Amelie Poulain. Liste 5 variações de títulos.                                                       |
 | conteúdo | Faça um texto para ebook, com foco em organização do lar, listando um passo a passo com atividades diárias que mães solo devem realizar para manter a casa organizada de maneira rápida e prática.  Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre deixe um título sugestivo por tópico. |
 
 Leonardo AI：
