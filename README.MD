@@ -14,9 +14,9 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
-<a href="file:///C:/Users/allek/OneDrive/%C3%81rea%20de%20Trabalho/Ebook%20DIO.pdf"> 📕Clique aqui para ler</a>
+file:///C:/Users/allek/OneDrive/%C3%81rea%20de%20Trabalho/Ebook%20DIO.pdf
 
-
+https://github.com/Alelopes2025/prompts-recipe-to-create-a-ebook
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
