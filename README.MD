@@ -34,9 +34,9 @@ ChatGPT：
 | Conteúdo | Faça um texto para ebook, com foco em organização do lar, listando um passo a passo com atividades diárias que mães solo devem realizar para manter a casa organizada de maneira rápida e prática.  Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre deixe um título sugestivo por tópico. |
 
 Leonardo AI：
-|  Ação  | prompt                                                                                 |
+|  Ação  | Prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Mãe solo organizando a casa com serenidade |
+| Título | Mãe solo organizando a casa com serenidade |
 
 ## ✨ Features
 
